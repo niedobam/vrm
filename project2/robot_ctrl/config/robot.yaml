@@ -1,0 +1,7 @@
+# Initialize parameters of the Object (RVIZ)
+object_pos: [0.0, 0.0, 0.0]
+object_visible: False
+
+# Initialize home parameters of the robot arm
+# FANUC CR7IA [0.0, 0.0, 0.0, 0.0, -1.57, 0.0]
+robot_home_param: [0.0, 0.0, 0.0, 0.0, -1.57, 0.0]
